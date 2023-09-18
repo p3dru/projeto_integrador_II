@@ -13,3 +13,6 @@ Permitir a recarga de forma online
 - Evitar o deslocamento até os pontos de recargas
 - Evitar perca de tempo em filas
 - Acesso à informações sobre crédito existente na conta à todo momento
+
+### Product Backlog
+https://github.com/p3dru/projeto_integrador_II/blob/main/solucao_passes/product_backlog.md
