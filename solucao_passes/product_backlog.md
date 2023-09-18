@@ -8,8 +8,8 @@
 | Solicitar carteiras estudantis | Media | 3 |  | Usuário comum | Secundária |
 | Renovar carteiras estudantis | Média | 3 |  | Usuário comum | Secundária |
 | Emitir relatórios de uso | Média | 4 |  | Administradores | Secundária |
-| Permitir acesso à visualização de rotas de ônibus | baixa | ? |  | Usuário comum | Opcional/Secundária |
-| Permitir pagamentos via NFC | baixíssima (inclusive possibilidade atual) | ? |  | Usuário comum | Opcional/Secundária/Utópica |
+| Permitir acesso à visualização de rotas de ônibus | Baixa | ? |  | Usuário comum | Opcional/Secundária |
+| Permitir pagamentos via NFC | Baixíssima (inclusive possibilidade atual) | ? |  | Usuário comum | Opcional/Secundária/Utópica |
 
 Critérios para Story Points:
 - Prioridade:
