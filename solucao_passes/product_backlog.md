@@ -6,8 +6,8 @@
 | Cadastrar usuário (Empresa) | Alta  | 1 |  | Usuário empresa  | Principal |
 | Recargar passes eletrônicos | Alta | 2 |  | Usuários | Principal |
 | Solicitar carteiras estudantis | Media | 3 |  | Usuário comum | Secundária |
-| Renovar carteiras estudantis | Media | 3 |  | Usuário comum | Secundária |
-| Emitir relatórios de uso | 4 | media |  | Administradores | Secundária |
+| Renovar carteiras estudantis | Média | 3 |  | Usuário comum | Secundária |
+| Emitir relatórios de uso | Média | 4 |  | Administradores | Secundária |
 | Permitir acesso à visualização de rotas de ônibus | baixa | ? |  | Usuário comum | Opcional/Secundária |
 | Permitir pagamentos via NFC | baixíssima (inclusive possibilidade atual) | ? |  | Usuário comum | Opcional/Secundária/Utópica |
 
