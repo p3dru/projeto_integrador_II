@@ -5,7 +5,8 @@
 | Cadastrar usuário (Comum) | Alta  | 1 |  | Usuário comum | Principal |
 | Cadastrar usuário (Empresa) | Alta  | 1 |  | Usuário empresa  | Principal |
 | Recargar passes eletrônicos | Alta | 2 |  | Usuários | Principal |
-| Solicitar carteiras estudantis | Media | 3 |  | Usuário comum | Secundária |
+| Enviar notificações via e-mail | Média | 2 |  | Usuários | Principal |
+| Solicitar carteiras estudantis | Média | 3 |  | Usuário comum | Secundária |
 | Renovar carteiras estudantis | Média | 3 |  | Usuário comum | Secundária |
 | Emitir relatórios de uso | Média | 4 |  | Administradores | Secundária |
 | Permitir acesso à visualização de rotas de ônibus | Baixa | ? |  | Usuário comum | Opcional/Secundária |
