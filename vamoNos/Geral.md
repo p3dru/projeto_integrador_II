@@ -10,3 +10,4 @@ Facilitar a organização e mobilização de pessoas para realizar atividades em
 - Incentivo feedbacks a fim de melhorar eventos futuros
   
 ### Product Backlog
+https://github.com/p3dru/projeto_integrador_II/blob/main/vamoNos/productBacklog.md
