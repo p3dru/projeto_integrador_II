@@ -17,3 +17,8 @@ https://docs.google.com/document/d/1a1ndZsg7lBR7XJfRi7rxlWZj_dgTD7-_jQ69duvnxHI/
 
 ### Sprint Backlog - Atual: 0
 https://docs.google.com/document/d/1W6rav1WpV8DYpZMNIbimm8MfafGtGXyjQnmx4Jb2dcc/edit?usp=sharing
+
+### Diagrama de Entidade e Relacionamento
+https://drive.google.com/file/d/1LBkm6BZ1iFBY9jkTy9xXWJq_nssNBCU6/view?usp=sharing
+
+### WireFrame
