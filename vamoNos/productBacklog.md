@@ -8,7 +8,7 @@
 | Gerenciar Usuário | Atualizar usuário (Organizador) | Alta  | 1 | 6 | Usuário Organizador  | Principal |
 | Gerenciar Usuário | Deletar usuário (Voluntário) | Alta  | 1 | 6 | Usuário Voluntário  | Principal |
 | Gerenciar Usuário | Deletar usuário (Organizador) | Alta  | 1 | 6 | Usuário Organizador  | Principal |
-| Gerenciar Usuário | Ver lista de usuários | Alta  | 2 | 5 | Administrador  | Secundária |
+| Gerenciar Usuário | Ver lista de usuários | Alta  | 1 | 5 | Administrador  | Secundária |
 | Eventos | Criar eventos passando informações necessárias (Titulo, descrição, data, hora, local, duração, vagas e tipo/categoria evento) | Alta  | 2 | 6 | Usuário Organizador  | Principal |
 | Eventos | Editar eventos criados | Média  | 2 | 5 | Usuário Organizador  | Principal |
 | Eventos | Finalizar eventos criados após concluídos (Ao final do tempo de duração) | Média | 2 | 5 | Usuário Organizador  | Principal |
