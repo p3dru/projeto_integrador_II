@@ -19,6 +19,7 @@
 | Eventos | Filtar eventos criados (por nome, categoria e tipo) | Média  | 2 | 4 | Usuários Gerais  | Secundária |
 | Eventos | Exibir detalhes de eventos criados | Alta  | 2 | 6 | Usuários Gerais  | Principal |
 | Inscrição em Eventos | Permitir que usuários inscrevam-se em eventos | Alta  | 3 | 6 | Usuários Gerais  | Principal |
+| Inscrição em Eventos | Permitir que usuários desinscrevam-se em eventos | Alta  | 3 | 6 | Usuários Gerais  | Principal |
 | Inscrição em Eventos | Exibir lista de eventos que o usuário está inscrito | Média  | 3 | 5 | Usuários Gerais  | Principal |
 | Gerenciamento de Participantes | Limitar o número de vagas disponíveis para o evento | Média  | 3 | 5 | Usuário Organizador  | Principal |
 | Gerenciamento de Participantes | Permitir que organizadores vejam a lista de participantes | Média  | 3 | 4 | Usuário Organizador  | Secundária |
