@@ -4,13 +4,13 @@
 | ----------- | ------ | --------   | ------ | ------------ | ---------- | --------- |
 | Gerenciar Usuário | Cadastrar usuário (Voluntário) | Alta  | 1 | 6 | Usuário Voluntário | Principal |
 | Gerenciar Usuário | Cadastrar usuário (Organizador) | Alta  | 1 | 6 | Usuário Organizador  | Principal |
-| Gerenciar Usuário | Atualizar usuário (Volutário) | Alta  | 1 | 6 | Usuário Voluntário  | Principal |
-| Gerenciar Usuário | Atualizar usuário (Organizador) | Alta  | 1 | 6 | Usuário Organizador  | Principal |
-| Gerenciar Usuário | Deletar usuário (Voluntário) | Alta  | 1 | 6 | Usuário Voluntário  | Principal |
-| Gerenciar Usuário | Deletar usuário (Organizador) | Alta  | 1 | 6 | Usuário Organizador  | Principal |
-| Gerenciar Usuário | Ver lista de usuários | Alta  | 1 | 5 | Administrador  | Secundária |
-| Gerenciar Usuário | Ver detalhes de usuários | Alta  | 1 | 5 | Administrador  | Secundária |
-| Gerenciar Usuário | Excluir usuários | Alta  | 1 | 5 | Administrador  | Secundária |
+| Gerenciar Usuário | Atualizar usuário (Volutário) | Média  | 1 | 5 | Usuário Voluntário  | Principal |
+| Gerenciar Usuário | Atualizar usuário (Organizador) | Média  | 1 | 5 | Usuário Organizador  | Principal |
+| Gerenciar Usuário | Deletar usuário (Voluntário) | Baixa  | 1 | 4 | Usuário Voluntário  | Principal |
+| Gerenciar Usuário | Deletar usuário (Organizador) | Baixa  | 1 | 4 | Usuário Organizador  | Principal |
+| Gerenciar Usuário | Ver lista de usuários | Baixa  | 1 | 3 | Administrador  | Secundária |
+| Gerenciar Usuário | Ver detalhes de usuários | Baixa  | 1 | 3 | Administrador  | Secundária |
+| Gerenciar Usuário | Excluir usuários | Média  | 1 | 4 | Administrador  | Secundária |
 | Eventos | Criar eventos passando informações necessárias (Titulo, descrição, data, hora, local, duração, vagas e tipo/categoria evento) | Alta  | 2 | 6 | Usuário Organizador  | Principal |
 | Eventos | Editar eventos criados | Média  | 2 | 5 | Usuário Organizador  | Principal |
 | Eventos | Finalizar eventos criados após concluídos (Ao final do tempo de duração) | Média | 2 | 5 | Usuário Organizador  | Principal |
