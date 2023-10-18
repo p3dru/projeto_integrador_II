@@ -1,5 +1,8 @@
 ## vamoNos
 
+### Área de atuação
+- Redes sociais de nicho específico
+
 ### Propósito
 Facilitar a organização e mobilização de pessoas para realizar atividades em prol de um bem maior.
 
@@ -26,3 +29,6 @@ https://github.com/p3dru/projeto_integrador_II/blob/main/vamoNos/productBacklog.
 
 ### Sprint Backlog - Atual: 1
 https://docs.google.com/document/d/1W6rav1WpV8DYpZMNIbimm8MfafGtGXyjQnmx4Jb2dcc/edit?usp=sharing
+
+### Organização -> Trello
+https://trello.com/invite/b/B8zWdT2A/ATTIbce8a0d6aa4f749bf3cd9f9b764667856100BD9B/vamonos
