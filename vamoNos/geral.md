@@ -27,6 +27,9 @@ https://www.figma.com/file/GALR9yZoT3T7Gx1LxN7guY/vamoNos?type=design&node-id=0%
 ### Product Backlog
 https://github.com/p3dru/projeto_integrador_II/blob/main/vamoNos/productBacklog.md
 
+### Relatório de Software
+https://docs.google.com/document/d/14drZ9OML4PKYGfjUhOpnXfY85P_D8Lq1hZXchsYNusQ/edit?usp=sharing
+
 ### Sprint Backlog - Atual: 1
 https://docs.google.com/document/d/1W6rav1WpV8DYpZMNIbimm8MfafGtGXyjQnmx4Jb2dcc/edit?usp=sharing
 
